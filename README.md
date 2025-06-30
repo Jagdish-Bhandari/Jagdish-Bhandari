@@ -18,9 +18,9 @@
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-|📂 [🔍 Work Life Analysis](#) | Analyzed employee trends, productivity patterns, and well-being using Power BI dashboards | MYSQL ,Power BI, DAX |
-|📂 [🏦 Bank Loan Dashboard](#) | Visualized loan data with KPIs, slicers, and dynamic titles | SQL, Power BI |
-|📂 [🛡️ Supply chain Management](#) | showcasing customer counts based on buying behavior | MySQL, Power BI |
+|📂 [🔍 Work Life Analysis](https://github.com/Jagdish-Bhandari/Work_life_analysis.git) | Analyzed employee trends, productivity patterns, and well-being using Power BI dashboards | MYSQL ,Power BI, DAX |
+|📂 [🏦 Bank Loan Dashboard](https://github.com/Jagdish-Bhandari/Bank_Loan_Analysis.git) | Visualized loan data with KPIs, slicers, and dynamic titles | SQL, Power BI |
+|📂 [🛡️ Supply chain Management](https://github.com/Jagdish-Bhandari/Supply-Chain-Dynamic-Dashboard.git) | showcasing customer counts based on buying behavior | MySQL, Power BI |
 |📂 [🔍 Bank Transactions](#) | Designing a fraud detection system using mock data and anomaly tracking  | MySQL, Power BI |
 
 
