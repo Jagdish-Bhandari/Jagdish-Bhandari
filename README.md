@@ -1,8 +1,10 @@
 # 👋 Hello, I'm Jagdish!
 
+
 🎯 **Data Analyst** | 🧠 Passionate about transforming data into compelling stories  
-📈 Focused on: Advanced_Excel ,Power BI, SQL,tableau,Python, Dashboard Design, and Real-Time Insights  
-🎓 Preparing for PL-300 | 🎨 Dabbler in Graphic Design  
+📈 Focused on: Power BI, SQL, Dashboard Design, and Real-Time Insights  
+💼 Strong background in the **Financial Services Industry** with a Master's Degree in Accounting and Finance, and several years of experience in the **Banking sector**  
+🎓 Preparing for PL-300 | 🎨 Dabbler in Graphic Design
 
 ---
 
