@@ -2,7 +2,7 @@
 
 
 🎯 **Data Analyst** | 🧠 Passionate about transforming data into compelling stories  
-📈 Focused on: Power BI, SQL, Dashboard Design, and Real-Time Insights  
+📈 Focused on: Power BI, SQL, tableau ,Dashboard Design, and Real-Time Insights  
 💼 Strong background in the **Financial Services Industry** with a Master's Degree in Accounting and Finance, and several years of experience in the **Banking sector**  
 🎓 Preparing for PL-300 | 🎨 Dabbler in Graphic Design
 
