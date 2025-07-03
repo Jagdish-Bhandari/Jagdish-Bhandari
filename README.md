@@ -43,7 +43,7 @@
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jagdishbhandari0503@gmail.com)
 
-[Explore my Portfolio](https://jagdish-bhandari.github.io/Jagdish_All-project-portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://jagdish-bhandari.github.io/Jagdish_All-project-portfolio)
 
 
 ---
